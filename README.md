@@ -21,7 +21,7 @@ src/
 
 
 ## 🌐 Acesse o site
-🔗 **Live Preview:** https://seu-portfolio.vercel.app
+🔗 **Live Preview:** https://portfolio-next-git-main-a-jota07s-projects.vercel.app/
 
 ## 📸 Funcionalidades
 - Página inicial com apresentação pessoal
@@ -31,9 +31,9 @@ src/
 - SEO otimizado
 
 ## 📬 Contato
-- LinkedIn: https://linkedin.com/in/seu-linkedin
-- GitHub: https://github.com/seu-usuario
-- Email: seuemail@email.com
+- LinkedIn: www.linkedin.com/in/alexandre-c-souza-jr
+- GitHub: https://github.com/A-jota07
+- Email: souzajunioralexandre340@gmail.com
 
 ---
 Desenvolvido por **Alexandre Junior** 🚀
