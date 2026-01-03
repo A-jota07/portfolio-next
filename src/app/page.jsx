@@ -1,8 +1,18 @@
+import ProjectCard from "@/components/ProjectCard";
+
+
 export default function Home() {
     return (
         <main>
-            <h1>Olá, eu sou Alexandre Junior 👋</h1>
-            <p>Desenvolvedor em formação</p>
+            <section className="hero">
+                <h1>Alexandre Junior</h1>
+                <p>Desenvolvedor em formação</p>
+            </section>
+
+            <section>
+                <h2>Projetos</h2>
+                <ProjectCard />
+            </section>
         </main>
     );
 }
