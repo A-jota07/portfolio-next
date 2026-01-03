@@ -4,9 +4,8 @@ Bem-vindo ao meu portfólio pessoal!
 Este projeto foi desenvolvido com **Next.js (React)** e tem como objetivo apresentar meus projetos, habilidades e formas de contato.
 
 ## 🚀 Tecnologias Utilizadas
-- Next.js 13+
+- Next.js 16+
 - React
-- Tailwind CSS
 - JavaScript
 - Vercel (Deploy)
 
