@@ -1,6 +1,7 @@
 'use client'
 
 import { useState } from "react";
+import styles from './page.module.css'
 
 export default function Contact() {
     const [status, setStatus] = useState("");
@@ -24,10 +25,10 @@ export default function Contact() {
     }
 
     return (
-        <section>
+        <section className={styles.container}>
             <h1>Contato</h1>
 
-            <form onSubmit={handleSubmit}>
+            <form className={styles.form} onSubmit={handleSubmit}>
                 <input name="name" placeholder="Nome" required />
                 <input name="email" type="email" placeholder="Email" required />
                 <textarea name="message" placeholder="Mensagem" required />
